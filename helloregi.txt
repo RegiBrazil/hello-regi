@@ -1,1 +1,2 @@
-Hi Regi
+Hi Regi.  
+I have added a new feature through my branch 
